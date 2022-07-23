@@ -1,1 +1,3 @@
 hello_world test for the Github repo! 
+
+Want to try and do this every day when I log on so that basic GIT commands become second nature! 
